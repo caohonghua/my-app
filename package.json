@@ -1,8 +1,15 @@
 {
-  "name": "vue-electron-template",
+  "name": "my-app",
   "version": "0.1.0",
   "author": "caohonghua",
-  "description": "A VUE and Electron Template",
+  "description": "自己写的玩的App， vue、electron、视频解析",
+  "keywords": [
+    "vue",
+    "electron",
+    "video",
+    "parse",
+    "视频解析"
+  ],
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
